@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="assets/banner.png" alt="GrabTube Pro — Free YouTube Video Downloader for Windows" width="100%">
+  <img src="assets/banner-v3.png" alt="GrabTube Pro v3.0.0 — All-in-One Video Downloader for YouTube, Facebook, TikTok and Instagram" width="100%">
 </p>
 
 <p align="center">
   <img src="assets/icon.png" alt="GrabTube Pro icon" width="110">
 </p>
 
-<h1 align="center">GrabTube Pro — Free YouTube Video Downloader for Windows</h1>
+<h1 align="center">GrabTube Pro — Free All-in-One Video Downloader for Windows</h1>
 
 <p align="center">
-  <strong>Download YouTube videos in HD, convert YouTube to MP3, and download full playlists — fast, free, and with no login or API key.</strong>
+  <strong>Download videos from YouTube, Facebook, TikTok &amp; Instagram — HD quality, TikTok without watermark, MP3 converter and playlist downloads. Fast, free, and with no login or API key.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/mrdigitalceo/grabtube-pro/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-red?style=for-the-badge" alt="Download GrabTube Pro"></a>
-  <img src="https://img.shields.io/badge/Version-2.0.0-brightgreen?style=for-the-badge" alt="Version 2.0.0">
+  <img src="https://img.shields.io/badge/Version-3.0.0-brightgreen?style=for-the-badge" alt="Version 3.0.0">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/Price-100%25%20Free-success?style=for-the-badge" alt="100% Free">
 </p>
@@ -31,49 +31,59 @@
 
 ## 📥 Download
 
-**[⬇️ Download GrabTube Pro v2.0.0 for Windows (Free)](https://github.com/mrdigitalceo/grabtube-pro/releases/latest)**
+**[⬇️ Download GrabTube Pro v3.0.0 for Windows (Free)](https://github.com/mrdigitalceo/grabtube-pro/releases/latest)**
 
-Download `GrabTubePro-Setup-v2.exe` from the latest release, run it, and follow the setup wizard. No Python, no extra tools, nothing else to install — everything the app needs is built in.
+Download `GrabTubePro-Setup-v3.exe` from the latest release, run it, and follow the setup wizard. No Python, no extra tools, nothing else to install — everything the app needs is built in.
 
 ## ✨ Features
 
+- 🌐 **4 platforms, one app** — YouTube, Facebook, TikTok and Instagram in a single downloader; paste any link and the platform is detected automatically
+- 💧 **TikTok without watermark** — when a clean copy exists, the No Watermark option appears automatically
+- 📸 **Facebook HD & Instagram Reels** — Facebook videos in HD/SD and Instagram Reels up to 1080p, with MP3 audio for every platform
+- 🎨 **New glossy premium design** — glossy 3D-style buttons, sidebar and cards with glossy brand icons everywhere
 - 🎬 **HD video downloads** — 1080p Full HD, 720p, 480p, 360p and lower, with the exact file size shown before you download
 - 🎵 **YouTube to MP3 converter** — extract audio only, with the video thumbnail embedded in the MP3
-- 📂 **Playlist downloader** — paste a playlist link and download every video in your chosen quality
+- 📂 **Playlist downloader** — playlist cover, total progress, and every video with its own thumbnail, duration and live status chip
+- 🖼️ **History in grid view** — every download saved with its real thumbnail, platform icon, quality chip, duration, size and date
 - 🏷️ **Quality label in every filename** — files save as `Video Title [720p].mp4` or `Video Title [MP3].mp3`, so your library stays organised
-- ⏸️ **Pause, resume and cancel** downloads with a clean live progress bar
-- 🕘 **Download history** — every download recorded with quality, size and date; play, open folder, or clear records anytime
+- ⏸️ **Pause, resume and cancel** downloads with live speed and ETA
 - ⚙️ **Simple settings** — default quality, custom download folder, open-folder-after-download option
 - 🔑 **No login and no API key** — paste a link and download; it just works
 - 🧩 **ffmpeg built in** — HD merging and MP3 conversion work out of the box, nothing to configure
-- 🆓 **100% free** — no trials, no watermarks, no download limits
+- 🆓 **100% free** — no trials, no feature locks, no download limits
 
 ## 🖼️ Screenshots
 
-**Downloader — paste a link, fetch, download**
-![GrabTube Pro downloader home screen](assets/grabtube-pro-downloader-home.png)
+**YouTube — paste a link, fetch, pick your quality**
+![GrabTube Pro v3 YouTube video downloader with quality selection](assets/grabtube-pro-v3-youtube-downloader.png)
 
-**Choose your quality — sizes shown upfront**
-![GrabTube Pro quality selection with 1080p, 720p, 480p, 360p and MP3](assets/grabtube-pro-quality-selection.png)
+**Facebook — HD quality options**
+![GrabTube Pro v3 Facebook video downloader](assets/grabtube-pro-v3-facebook-downloader.png)
 
-**Download full playlists in one go**
-![GrabTube Pro playlist downloader](assets/grabtube-pro-playlist-downloader.png)
+**TikTok — download without watermark**
+![GrabTube Pro v3 TikTok downloader no watermark](assets/grabtube-pro-v3-tiktok-downloader-no-watermark.png)
+
+**Instagram — Reels up to 1080p**
+![GrabTube Pro v3 Instagram reel downloader](assets/grabtube-pro-v3-instagram-downloader.png)
+
+**Playlist downloader — thumbnails, cover and progress**
+![GrabTube Pro v3 playlist downloader with thumbnails](assets/grabtube-pro-v3-playlist-downloader.png)
+
+**History in grid view — real thumbnails on every download**
+![GrabTube Pro v3 download history grid view](assets/grabtube-pro-v3-history-grid.png)
 
 **Live progress with pause and cancel**
-![GrabTube Pro download in progress](assets/grabtube-pro-downloading-progress.png)
-
-**History with quality labels**
-![GrabTube Pro download history](assets/grabtube-pro-download-history.png)
+![GrabTube Pro v3 download in progress](assets/grabtube-pro-v3-downloading-progress.png)
 
 **Clean, simple settings**
-![GrabTube Pro settings](assets/grabtube-pro-settings.png)
+![GrabTube Pro v3 settings](assets/grabtube-pro-v3-settings.png)
 
 **About the developer**
-![GrabTube Pro about page — Mr Arslan CEO, NextGen Web Agency](assets/grabtube-pro-about-developer.png)
+![GrabTube Pro v3 about page — Mr Arslan CEO, NextGen Web Agency](assets/grabtube-pro-v3-about-developer.png)
 
 ## 🚀 How to Install
 
-1. Download `GrabTubePro-Setup-v2.exe` from the **[latest release](https://github.com/mrdigitalceo/grabtube-pro/releases/latest)**.
+1. Download `GrabTubePro-Setup-v3.exe` from the **[latest release](https://github.com/mrdigitalceo/grabtube-pro/releases/latest)**.
 2. Double-click the file and follow the setup wizard (Next → Install → Finish).
 3. Open **GrabTube Pro** from your Desktop or Start Menu — done!
 
@@ -81,8 +91,8 @@ Download `GrabTubePro-Setup-v2.exe` from the latest release, run it, and follow 
 
 ## 🎯 How to Use
 
-1. Copy any YouTube video (or playlist) link.
-2. Paste it in GrabTube Pro and press **Fetch Video**.
+1. Copy a video link from YouTube, Facebook, TikTok or Instagram (playlists work too).
+2. Paste it in GrabTube Pro and press **Fetch Video** — the platform is detected automatically.
 3. Pick a quality (or MP3) and press **Download Now**.
 4. Find your file in the download folder — renamed neatly with its quality label.
 
@@ -109,9 +119,12 @@ By default in `Downloads\GrabTube` — you can change the folder anytime in Sett
 **Can it download private or age-restricted videos?**
 No. GrabTube Pro works with publicly available videos only.
 
+**Does Instagram always work?**
+Instagram is the strictest platform — Meta sometimes requires a login on its own side, and no downloader can bypass that. Public reels usually work; TikTok and YouTube are the most reliable.
+
 ## ⚖️ Disclaimer
 
-GrabTube Pro is a personal-use tool. Please download only content you own, content that is in the public domain, or Creative Commons / royalty-free content, and always respect YouTube's Terms of Service and the rights of content creators. This project is not affiliated with YouTube or Google.
+GrabTube Pro is a personal-use tool. Please download only content you own, content that is in the public domain, or Creative Commons / royalty-free content, and always respect each platform's Terms of Service and the rights of content creators. This project is not affiliated with YouTube, Google, Meta, Facebook, Instagram or TikTok.
 
 ## 👨‍💻 Developer
 
@@ -142,4 +155,4 @@ GrabTube Pro is **freeware** — free to download and use for personal purposes.
   Made with ❤️ by <a href="https://www.mrarslanceo.site">NextGen Web Agency</a> — ⭐ <a href="https://github.com/mrdigitalceo/grabtube-pro">Star this repo</a> if it helped you!
 </p>
 
-<!-- Keywords: free youtube video downloader for pc, youtube downloader windows 11, youtube downloader windows 10, download youtube videos hd, youtube to mp3 converter free, youtube playlist downloader, save youtube videos offline, grabtube pro, nextgen web agency -->
+<!-- Keywords: free youtube video downloader for pc, youtube downloader windows 11, youtube downloader windows 10, download youtube videos hd, youtube to mp3 converter free, youtube playlist downloader, facebook video downloader, tiktok downloader without watermark, instagram reel downloader, all in one video downloader, save videos offline, grabtube pro, nextgen web agency -->
